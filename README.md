@@ -11,8 +11,9 @@ achieving an accuracy of 95%
 import the file languageDetection.py to use in your python script
 
 # Functions
-def languageDetect(inputFile, extension, chunk_file):
-	
+```
+def languageDetect(inputFile, extension, chunk_file)
+```
 	Parameters:
 	
 	inputFile -- path to file for audio
